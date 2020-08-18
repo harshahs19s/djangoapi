@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/harshahs19s/djangoapi/" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.11:7990/scm/thid/python-6th-id.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Sharon J\PycharmProjects" />
